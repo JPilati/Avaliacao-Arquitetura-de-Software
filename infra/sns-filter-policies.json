@@ -1,0 +1,10 @@
+{
+  "topico": "livro-publicado",
+  "atributo": "canais",
+  "assinaturas": {
+    "loja-atualizar": { "canais": ["LOJA"] },
+    "ebook-distribuir": { "canais": ["EBOOK"] },
+    "impressao-solicitar": { "canais": ["IMPRESSAO"] },
+    "ia-indexar": { "canais": ["IA"] }
+  }
+}
