@@ -1,0 +1,16 @@
+{
+  "name": "agile-dead-trees",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Agile Dead Trees — Editora Digital (Grupo Nexus): código demonstrativo da arquitetura",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "npm run build && node --test dist/test/*.test.js",
+    "test:arquitetura": "depcruise src --config .dependency-cruiser.cjs"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "dependency-cruiser": "^16.0.0",
+    "typescript": "^5.6.0"
+  }
+}
