@@ -209,3 +209,14 @@ src/                     Código demonstrativo (TypeScript)
 test/                    Testes
 infra/                   Filter policies do SNS
 ```
+
+---
+
+### Outros projetos
+
+- [Projeto Jornada](https://github.com/JPilati/Projeto-Jornada): app em Flutter para controle de documentos, colaboradores e frota · [Site](https://jpilati.github.io/Projeto-Jornada/)
+- [RecipeApp](https://github.com/JPilati/RecipeApp): site de receitas em Python (Flask) e MySQL
+- [Front-End](https://github.com/JPilati/Front-End): aulas e exercícios de HTML, CSS e JavaScript · [Site](https://jpilati.github.io/Front-End/)
+- [Calculadora](https://github.com/JPilati/Calculadora): calculadora simples em HTML, CSS e JavaScript
+
+[Ver todos os projetos no meu perfil](https://github.com/JPilati)
